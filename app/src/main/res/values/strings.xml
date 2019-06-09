@@ -1,8 +1,14 @@
 <resources>
     <string name="app_name">JSQuiz</string>
-    <string name="question_text">"JS is a dynamically typed language.</string>
-    <string name="true_button">"True"</string>
-    <string name="false_button">"False"</string>
-    <string name="correct_toast">"Correct!"</string>
-    <string name="incorrect_toast">"Incorrect!"</string>
+    <string name="question_types">JS is a dynamically typed language.</string>
+    <string name="question_equality">2 === \'2\'</string>
+    <string name="question_nan">NaN == NaN</string>
+    <string name="question_closure">A closure is an inner function with access to the variables in the enclosing function.</string>
+    <string name="question_const">The elements in the array declared as \'const\' numbers = [1, 2, 3] cannot change.</string>
+    <string name="question_let">\'let\' declares a variable with block scope.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
 </resources>
